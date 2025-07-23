@@ -13,44 +13,40 @@
   </div>
 </div>
 
-## 📚 Formación
+<div style="font-family: 'Segoe UI', Tahoma, sans-serif">
 
-<div style="display: flex; margin-bottom: 15px">
-  <div style="flex: 0 0 200px; font-weight: bold">Marzo 2017 – Diciembre 2020</div>
-  <div>
-    <strong>Ingeniero de ejecución en administración</strong><br>
-    Instituto Profesional Santo Tomás<br>
-    <em>Titulado, aprobado con distinción</em>
-  </div>
-</div>
+## 📚 Formación Académica
 
-<div style="display: flex; margin-bottom: 30px">
-  <div style="flex: 0 0 200px; font-weight: bold">Marzo 2014 – Diciembre 2015</div>
-  <div>
-    <strong>Técnico en computación</strong><br>
-    Universidad de Magallanes<br>
-    <em>Titulado</em>
-  </div>
+<div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px; border-left: 4px solid #3d5a80">
+
+**Marzo 2017 – Diciembre 2020**  
+**Ingeniero de ejecución en administración**  
+[Instituto Profesional Santo Tomás](https://www.santotomas.cl)  
+*Titulado, aprobado con distinción*  
+
+**Marzo 2014 – Diciembre 2015**  
+**Técnico en computación**  
+[Universidad de Magallanes](https://www.umag.cl)  
+*Titulado*  
+
 </div>
 
 ## 🎓 Formación Complementaria
 
-<div style="display: flex; margin-bottom: 15px">
-  <div style="flex: 0 0 200px; font-weight: bold">Diciembre 2015</div>
-  <div>
-    <strong>Especialista en Seguridad de la Información</strong><br>
-    ESET Latinoamérica (Carrera en línea)<br>
-    <em>Redes seguras, backup, navegación segura, seguridad móvil y transacciones online</em>
-  </div>
+<div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px; border-left: 4px solid #6c757d">
+
+**Diciembre 2015**  
+**Especialista en Seguridad de la Información**  
+[ESET Latinoamérica](https://www.eset.com/cl/educacion/) (Carrera en línea)  
+*Redes seguras, backup, navegación segura, seguridad móvil y transacciones online*  
+
+**Julio – Diciembre 2015**  
+**Cisco Certified Networking Associate: Introducción a las redes**  
+[Universidad de Magallanes](https://www.umag.cl)  
+*Fundamentos de redes, modelos OSI, direccionamiento IP, automatización, seguridad*  
+
 </div>
 
-<div style="display: flex; margin-bottom: 30px">
-  <div style="flex: 0 0 200px; font-weight: bold">Julio – Diciembre 2015</div>
-  <div>
-    <strong>Cisco Certified Networking Associate: Introducción a las redes</strong><br>
-    Universidad de Magallanes<br>
-    <em>Fundamentos de redes, modelos OSI, direccionamiento IP, automatización, seguridad</em>
-  </div>
 </div>
 
 ## 💼 Experiencia Profesional
