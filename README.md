@@ -85,11 +85,11 @@ Biblioteca del Instituto de la Patagonia, Universidad de Magallanes
 
 ## 🛠️ Habilidades y Competencias
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 30px">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 30px; font-family: 'Segoe UI', Tahoma, sans-serif">
 
 <div>
-**Gestión TI y proyectos**  
-<ul>
+<h3 style="color: #3d5a80; margin-bottom: 10px">Gestión TI y proyectos</h3>
+<ul style="margin-top: 0">
   <li>Liderazgo en proyectos de modernización de infraestructura (hardware, software, cableado)</li>
   <li>Planificación y ejecución de migraciones tecnológicas</li>
   <li>Capacitación de usuarios y documentación técnica</li>
@@ -97,8 +97,8 @@ Biblioteca del Instituto de la Patagonia, Universidad de Magallanes
 </div>
 
 <div>
-**Redes y telecomunicaciones**  
-<ul>
+<h3 style="color: #3d5a80; margin-bottom: 10px">Redes y telecomunicaciones</h3>
+<ul style="margin-top: 0">
   <li>Configuración de switches Cisco/Unifi (PoE/PoE+), routers y puntos de acceso</li>
   <li>Cableado estructurado (UTP Cat6): armado y canalización</li>
   <li>Diagnóstico con generadores de tono, nmap, traceroute</li>
@@ -107,8 +107,8 @@ Biblioteca del Instituto de la Patagonia, Universidad de Magallanes
 </div>
 
 <div>
-**Administración de sistemas**  
-<ul>
+<h3 style="color: #3d5a80; margin-bottom: 10px">Administración de sistemas</h3>
+<ul style="margin-top: 0">
   <li>Servidores Linux (Debian) y Windows: Samba, Apache, SSH, DHCP</li>
   <li>Virtualización (VirtualBox, VMware)</li>
   <li>Gestión de backups y monitorización proactiva</li>
@@ -116,16 +116,16 @@ Biblioteca del Instituto de la Patagonia, Universidad de Magallanes
 </div>
 
 <div>
-**Automatización y desarrollo**  
-<ul>
+<h3 style="color: #3d5a80; margin-bottom: 10px">Automatización y desarrollo</h3>
+<ul style="margin-top: 0">
   <li>Automatización con Bash, PowerShell y Python (bots para Telegram, optimización de PDFs, monitoreo de red)</li>
   <li>Implementación de motores de búsqueda RAG y modelos LLM (GPT, Ollama)</li>
 </ul>
 </div>
 
 <div>
-**Seguridad y optimización**  
-<ul>
+<h3 style="color: #3d5a80; margin-bottom: 10px">Seguridad y optimización</h3>
+<ul style="margin-top: 0">
   <li>Hardening de redes y sistemas (ESET Security)</li>
   <li>Diagnóstico y resolución de fallas (hardware, redes, rendimiento)</li>
   <li>Reducción de costos mediante automatización (ej: scripts para PDFs -70% tamaño)</li>
@@ -133,7 +133,6 @@ Biblioteca del Instituto de la Patagonia, Universidad de Magallanes
 </div>
 
 </div>
-
 ## 🌍 Idiomas  
 - **Español**: Nativo  
 - **Inglés técnico**: Lectura fluida de documentación y manuales de sistemas  
