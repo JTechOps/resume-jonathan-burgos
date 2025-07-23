@@ -21,7 +21,7 @@
 
 **Marzo 2017 – Diciembre 2020**  
 **Ingeniero de ejecución en administración**  
-[Instituto Profesional Santo Tomás](https://www.santotomas.cl)  
+[Instituto Profesional Santo Tomás](https://www.ipsantotomas.cl)  
 *Titulado, aprobado con distinción*  
 
 **Marzo 2014 – Diciembre 2015**  
