@@ -133,9 +133,6 @@ Biblioteca del Instituto de la Patagonia, Universidad de Magallanes
 </div>
 
 </div>
-## 🌍 Idiomas  
-- **Español**: Nativo  
-- **Inglés técnico**: Lectura fluida de documentación y manuales de sistemas  
 
 ## 📝 Datos Adicionales  
 - Licencia de Conductor Profesional Clase A-2 (vigente desde Agosto 2025)
