@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center; gap: 30px; margin-bottom: 30px; border-bottom: 2px solid #3d5a80; padding-bottom: 20px">
   <div style="flex: 0 0 150px">
     <!-- Reemplaza con tu foto -->
-    <img src="https://github.com/JTechOps/resume-jonathan-burgos/blob/main/images/1000019733.jpg" alt="Foto Jonathan Burgos" width="100" style="border-radius: 50%; border: 2px solid #3d5a80">
+    <img src="https://github.com/JTechOps/resume-jonathan-burgos/blob/main/images/1000019733.jpg" alt="Foto Jonathan Burgos" width="300" style="border-radius: 50%; border: 2px solid #3d5a80">
   </div>
   <div>
     <h1 style="color: #3d5a80; margin-bottom: 5px">Jonathan Burgos</h1>
